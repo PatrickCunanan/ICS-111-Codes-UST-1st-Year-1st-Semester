@@ -2,5 +2,7 @@
 Codes from my 1st year in UST using the C Programming Language.
 
 Repository contains:
-  - Prelims Period Activities and Machine Problems
-  - Finals Period Activities and Machine Problems
+  - Prelims Period
+    - Machine Problem Codes
+  - Finals Period
+    - Machine Problem Codes
